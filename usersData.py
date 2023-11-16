@@ -1,0 +1,4 @@
+clientAndNumbers = {}
+idForUsers = {}
+usersPins = {}
+users = []
